@@ -1,0 +1,7 @@
+.
+..
+.git
+lsla2.txt
+lsla.txt
+lsl.txt
+README.md
